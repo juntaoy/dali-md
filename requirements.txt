@@ -1,0 +1,7 @@
+tensorflow-gpu==1.12
+tensorflow-hub
+scikit-learn
+pyhocon
+numpy
+scipy
+h5py
