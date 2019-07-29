@@ -5,7 +5,6 @@ This repository contains code introduced in the following paper:
  
 **Neural Mention Detection**  
 Juntao Yu, Bernd Bohnet and Massimo Poesio  
-In *Proceedings of* ...
 
 
 ## Setup Environments
