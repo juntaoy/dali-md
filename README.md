@@ -5,7 +5,7 @@ This repository contains code introduced in the following paper:
  
 **Neural Mention Detection**  
 Juntao Yu, Bernd Bohnet and Massimo Poesio  
-
+[https://arxiv.org/abs/1907.12524](https://arxiv.org/abs/1907.12524)
 
 ## Setup Environments
 * The code is written in Python 2, the compatibility to Python 3 is not guaranteed.  
