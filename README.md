@@ -23,7 +23,7 @@ Juntao Yu, Bernd Bohnet and Massimo Poesio
    
    ```
   {
-  "clusters": [[[0,0],[4,4]],[[2,3],[7,8]], 
+  "clusters": [[[0,0],[5,5]],[[2,3],[7,8]], 
   "doc_key": "nw",
   "sentences": [["John", "has", "a", "car", "."], ["He", "washed", "the", "car", "yesteday","."],["Really","?","it", "was", "raining","yesteday","!"]],
   
