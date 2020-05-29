@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains code introduced in the following paper:
  
-**[Neural Mention Detection](https://arxiv.org/abs/1907.12524)**  
+**[Neural Mention Detection](https://www.aclweb.org/anthology/2020.lrec-1.1/)**  
 Juntao Yu, Bernd Bohnet and Massimo Poesio  
 In *Proceedings of the 12th Language Resources and Evaluation Conference (LREC)*, 2020
 
