@@ -14,7 +14,7 @@ In *Proceedings of the 12th Language Resources and Evaluation Conference (LREC)*
 * If you want to use `Lee MD` you need to uncomment the first few lines of `setup.sh` to download the GloVe embeddings that required by the system.
 
 ## To use a pre-trained model
-* Pre-trained models can be download from [this link](https://www.dropbox.com/s/pnidyrrv33mbj3z/best_models.zip?dl=0). We provide two pre-trained models trained with our best model (`Biaffine MD`):
+* Pre-trained models can be download from [this link](https://essexuniversity.box.com/s/nh03s1v54qm5bqwx8rdpjyebd8huwbis). We provide two pre-trained models trained with our best model (`Biaffine MD`):
    * One trained on the [CoNLL 2012 shared task](http://conll.cemantix.org/2012/introduction.html) data in which singletons and non-referring expressions are not annotated.
    * The other trained on the [CRAC 2018 shared task](http://dali.eecs.qmul.ac.uk/crac18_shared_task) data that has both single mentions and the non-referring expressions annotated. 
 * Choose the model you want to use and put the `model.max.ckpt.*` files under the `logs/biaffinmd` folder.
